@@ -1,6 +1,7 @@
 Dependencies: 
 
 VideoCapture library : http://videocapture.sourceforge.net/
+
 PIL
 
 Probably more things.
